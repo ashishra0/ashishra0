@@ -18,7 +18,6 @@ Work @ [CoLearn Indonesia](https://colearn.id)
 
 * Design patterns
 * Database Internals
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashishra0&theme=nord&no-frame=false&no-bg=false&margin-w=4)
