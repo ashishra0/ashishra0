@@ -1,6 +1,7 @@
 ## ✨ About me:
 
 Actively looking for work 💻
+
 Prev [CoLearn Indonesia](https://colearn.id) | [Hasura](https://hasura.io)  | [Postman](https://www.postman.com)
 
 ## 🌐 Socials:
