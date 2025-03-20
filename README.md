@@ -14,8 +14,7 @@ Software Engineer with experience at [Postman](https://www.postman.com), [Hasura
 
 ## Learning
 - Design patterns
-- Database internals
-- SQL optimization
+- Software Architecture
 
 ## Stats
 ![Contribution stats](https://github-readme-stats.vercel.app/api?username=ashishra0&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&hide=stars&hide_border=true)
