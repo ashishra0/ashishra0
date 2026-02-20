@@ -5,7 +5,7 @@
 Past:
 
 * [Postman](https://www.postman.com)
-* [Hasura](https://hasura.io)
+* [Hasura](https://hasura.io) (PromptQL)
 * [CoLearn Indonesia](https://colearn.id)
 * [Artos Software](https://www.linkedin.com/company/artos-software-inc/)
 * [Superlinear Insights](https://superlinear.tech)
