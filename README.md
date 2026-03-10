@@ -14,4 +14,4 @@ Past:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Rao-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/that-ashish-rao)
 [![Twitter](https://img.shields.io/badge/Twitter-@__ashishrao-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_ashishrao)
 
-Open for work 🏖️
+Current: Neohpc
