@@ -15,3 +15,4 @@ Past:
 [![Twitter](https://img.shields.io/badge/Twitter-@__ashishrao-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_ashishrao)
 
 Current: Neohpc
+Business: We build cloud infrastructure for high-performance and GPU compute
