@@ -4,6 +4,8 @@ Software engineer working on **cloud infrastructure, distributed systems, and de
 
 Currently at **NeoHPC**, building cloud infrastructure for high-performance and GPU compute. Working across compute, Kubernetes, networking, multi-tenancy, billing, and the control plane that ties it together.
 
+Building [Unclench.ai](https://www.unclench.ai)
+
 ### Previously
 
 [Postman](https://www.postman.com) · [Hasura](https://hasura.io) · [CoLearn](https://colearn.id) · [Artos Software](https://www.linkedin.com/company/artos-software-inc/) · [Superlinear Insights](https://superlinear.tech) · [Bharosa Technoserve](https://bharosaclub.com)
